@@ -1,0 +1,17 @@
+body{
+  background-color: #3a3a3a;
+}
+
+.entrada{
+  border: none;
+  border-bottom: 3px solid white;
+  outline: none;
+  background-color: #3a3a3a;
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: rgb(198, 239, 255);
+}
+
+.textConsumo{
+  font-weight: bold;
+}
