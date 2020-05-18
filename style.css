@@ -15,3 +15,14 @@ body{
 .textConsumo{
   font-weight: bold;
 }
+
+.show{
+  width: 700px;
+  word-break: break-all;
+}
+
+.fa-utensils{
+  margin-top: 10px;
+  margin-right: 5px;
+  font-size: 1.2rem;
+}
